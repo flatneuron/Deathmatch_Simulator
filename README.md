@@ -13,7 +13,7 @@ This program simulates a simple deathmatch scenario where multiple players rando
 **How to Run:**
 
 1. Make sure you have Go installed ([https://go.dev/]).
-2. Save the code as a `.go` file (e.g., `main.go`).
+2. Save the code as a `.go` file (e.g., `client.go`).
 3. Run from your terminal:
 
     ```bash
